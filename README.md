@@ -6,10 +6,15 @@ Projekt Rozpoznawania Emocji wykorzystuje model głębokiego uczenia oparty na a
 Aby uruchomić projekt, potrzebne są następujące biblioteki:
 
 Python 3.8+
+
 PyTorch 1.9+
+
 torchvision 0.10+
+
 PIL (Python Imaging Library)
+
 NumPy
+
 Zaleca się użycie środowiska wirtualnego Pythona dla lepszego zarządzania zależnościami.
 
 ## Przygotowanie danych
